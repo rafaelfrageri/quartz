@@ -1,6 +1,6 @@
 ---
 title: Antivírus detectam por assinatura
-draft: "true"
+draft: "false"
 ---
 # Conceito
 

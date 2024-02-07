@@ -1,6 +1,6 @@
 ---
 title: EDR - Agent
-draft: "true"
+draft: "false"
 ---
 # Conceito
 

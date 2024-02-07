@@ -1,6 +1,6 @@
 ---
 title: Home
-draft: "true"
+draft: "false"
 ---
 Eu deveria dizer Olá, but [no hello](https://nohello.net/)
 

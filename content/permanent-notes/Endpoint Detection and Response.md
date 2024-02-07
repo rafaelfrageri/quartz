@@ -1,6 +1,6 @@
 ---
 title: Endpoint Detection and Response
-draft: "true"
+draft: "false"
 aliases:
   - EDR
 tags:

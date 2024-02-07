@@ -1,6 +1,6 @@
 ---
 title: Evading EDR
-draft: "true"
+draft: "false"
 tags:
   - "#book"
   - Cybersecurity
